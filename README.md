@@ -38,10 +38,10 @@
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 10
+**Total Solved:** 15
 
 | Topic | Solved |
 |-------|--------|
-| Array | 9 |
+| Array | 14 |
 | LinkedList | 1 |
 <!-- AUTO-STATS:END -->
