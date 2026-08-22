@@ -25,7 +25,7 @@
 - [ ] Dynamic Programming
 - [ ] Backtracking
 - [ ] Greedy
-- [ ] Binary Search
+- [x] Binary Search
 - [x] Math
 - [ ] Bit Manipulation
 - [ ] Sliding Window
@@ -38,12 +38,13 @@
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 31
+**Total Solved:** 47
 
 | Topic | Solved |
 |-------|--------|
-| Array | 23 |
-| Math | 6 |
+| Array | 32 |
+| Math | 9 |
+| String | 4 |
+| BinarySearch | 1 |
 | LinkedList | 1 |
-| String | 1 |
 <!-- AUTO-STATS:END -->
