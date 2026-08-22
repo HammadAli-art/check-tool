@@ -13,7 +13,7 @@
 
 <!-- AUTO-TOPICS:START -->
 - [x] Array
-- [ ] String
+- [x] String
 - [x] Linked List
 - [x] Matrix
 - [ ] Trees
@@ -28,7 +28,7 @@
 - [x] Binary Search
 - [x] Math
 - [x] Bit Manipulation
-- [ ] Sliding Window
+- [x] Sliding Window
 - [x] Two Pointers
 - [x] Sorting
 <!-- AUTO-TOPICS:END -->
