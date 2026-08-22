@@ -14,7 +14,7 @@
 <!-- AUTO-TOPICS:START -->
 - [x] Array
 - [ ] String
-- [ ] Linked List
+- [x] Linked List
 - [ ] Matrix
 - [ ] Trees
 - [ ] Graph
@@ -38,9 +38,10 @@
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 1
+**Total Solved:** 10
 
 | Topic | Solved |
 |-------|--------|
-| Array | 1 |
+| Array | 9 |
+| LinkedList | 1 |
 <!-- AUTO-STATS:END -->
