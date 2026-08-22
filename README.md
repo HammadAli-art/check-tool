@@ -38,12 +38,12 @@
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 26
+**Total Solved:** 31
 
 | Topic | Solved |
 |-------|--------|
 | Array | 23 |
+| Math | 6 |
 | LinkedList | 1 |
-| Math | 1 |
 | String | 1 |
 <!-- AUTO-STATS:END -->
