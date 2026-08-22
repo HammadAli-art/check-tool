@@ -13,24 +13,24 @@
 
 <!-- AUTO-TOPICS:START -->
 - [x] Array
-- [x] String
-- [x] Linked List
+- [ ] String
+- [ ] Linked List
 - [ ] Matrix
 - [ ] Trees
 - [ ] Graph
 - [x] Stack / Queue
 - [ ] Heap
 - [ ] Trie
-- [ ] Hashing
-- [x] Dynamic Programming
+- [x] Hashing
+- [ ] Dynamic Programming
 - [ ] Backtracking
 - [ ] Greedy
 - [x] Binary Search
 - [x] Math
-- [ ] Bit Manipulation
+- [x] Bit Manipulation
 - [ ] Sliding Window
-- [ ] Two Pointers
-- [ ] Sorting
+- [x] Two Pointers
+- [x] Sorting
 <!-- AUTO-TOPICS:END -->
 </details>
 
