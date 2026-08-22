@@ -38,13 +38,13 @@
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 47
+**Total Solved:** 65
 
 | Topic | Solved |
 |-------|--------|
-| Array | 32 |
+| Array | 49 |
 | Math | 9 |
 | String | 4 |
-| BinarySearch | 1 |
+| BinarySearch | 2 |
 | LinkedList | 1 |
 <!-- AUTO-STATS:END -->
