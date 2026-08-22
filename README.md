@@ -14,15 +14,15 @@
 <!-- AUTO-TOPICS:START -->
 - [x] Array
 - [ ] String
-- [ ] Linked List
-- [ ] Matrix
+- [x] Linked List
+- [x] Matrix
 - [ ] Trees
 - [ ] Graph
 - [x] Stack / Queue
 - [ ] Heap
 - [ ] Trie
 - [x] Hashing
-- [ ] Dynamic Programming
+- [x] Dynamic Programming
 - [ ] Backtracking
 - [ ] Greedy
 - [x] Binary Search
@@ -38,11 +38,11 @@
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 97
+**Total Solved:** 98
 
 | Topic | Solved |
 |-------|--------|
-| Array | 72 |
+| Array | 73 |
 | Math | 9 |
 | LinkedList | 6 |
 | String | 6 |
