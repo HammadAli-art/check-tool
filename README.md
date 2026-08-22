@@ -13,7 +13,7 @@
 
 <!-- AUTO-TOPICS:START -->
 - [x] Array
-- [ ] String
+- [x] String
 - [x] Linked List
 - [ ] Matrix
 - [ ] Trees
@@ -26,7 +26,7 @@
 - [ ] Backtracking
 - [ ] Greedy
 - [ ] Binary Search
-- [ ] Math
+- [x] Math
 - [ ] Bit Manipulation
 - [ ] Sliding Window
 - [ ] Two Pointers
@@ -38,10 +38,12 @@
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 15
+**Total Solved:** 26
 
 | Topic | Solved |
 |-------|--------|
-| Array | 14 |
+| Array | 23 |
 | LinkedList | 1 |
+| Math | 1 |
+| String | 1 |
 <!-- AUTO-STATS:END -->
