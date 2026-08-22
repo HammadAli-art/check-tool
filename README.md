@@ -23,7 +23,7 @@
 - [ ] Trie
 - [x] Hashing
 - [x] Dynamic Programming
-- [ ] Backtracking
+- [x] Backtracking
 - [x] Greedy
 - [x] Binary Search
 - [x] Math
