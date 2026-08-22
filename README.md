@@ -38,11 +38,11 @@
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 96
+**Total Solved:** 97
 
 | Topic | Solved |
 |-------|--------|
-| Array | 71 |
+| Array | 72 |
 | Math | 9 |
 | LinkedList | 6 |
 | String | 6 |
