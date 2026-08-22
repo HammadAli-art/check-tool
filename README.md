@@ -18,11 +18,11 @@
 - [ ] Matrix
 - [ ] Trees
 - [ ] Graph
-- [ ] Stack / Queue
+- [x] Stack / Queue
 - [ ] Heap
 - [ ] Trie
 - [ ] Hashing
-- [ ] Dynamic Programming
+- [x] Dynamic Programming
 - [ ] Backtracking
 - [ ] Greedy
 - [x] Binary Search
@@ -38,13 +38,15 @@
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 65
+**Total Solved:** 87
 
 | Topic | Solved |
 |-------|--------|
-| Array | 49 |
+| Array | 64 |
 | Math | 9 |
-| String | 4 |
+| LinkedList | 5 |
+| String | 5 |
 | BinarySearch | 2 |
-| LinkedList | 1 |
+| DynamicProgramming | 1 |
+| Stack | 1 |
 <!-- AUTO-STATS:END -->
