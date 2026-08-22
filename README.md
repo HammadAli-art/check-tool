@@ -24,7 +24,7 @@
 - [x] Hashing
 - [x] Dynamic Programming
 - [ ] Backtracking
-- [ ] Greedy
+- [x] Greedy
 - [x] Binary Search
 - [x] Math
 - [x] Bit Manipulation
