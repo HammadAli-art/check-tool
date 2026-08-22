@@ -38,14 +38,14 @@
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 87
+**Total Solved:** 94
 
 | Topic | Solved |
 |-------|--------|
-| Array | 64 |
+| Array | 69 |
 | Math | 9 |
-| LinkedList | 5 |
-| String | 5 |
+| LinkedList | 6 |
+| String | 6 |
 | BinarySearch | 2 |
 | DynamicProgramming | 1 |
 | Stack | 1 |
